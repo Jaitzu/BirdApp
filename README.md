@@ -2,9 +2,9 @@
 
 Install dependencies and start project:
 
-### 'npm install'
+### ´npm install´
 
-### 'npm start'
+### ´npm start´
 
 
 
